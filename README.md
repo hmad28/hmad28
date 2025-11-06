@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Nama Kamu]
+# 👋 Hi there, I'm Hammad
 
 <div align="center">
   
@@ -10,12 +10,12 @@
 
 Saya seorang developer yang passionate dalam membangun solusi digital yang impactful. Suka eksplorasi teknologi baru dan berkontribusi ke open source community.
 
-- 🔭 Saat ini sedang mengerjakan **[Project Kamu]**
-- 🌱 Sedang belajar **[Teknologi yang sedang dipelajari]**
+- 🔭 Saat ini sedang mengerjakan **H-Mate AI**
+- 🌱 Sedang belajar **AI Engineering**
 - 👯 Terbuka untuk kolaborasi di **proyek open source**
 - 💬 Tanya saya tentang **Web Development, Laravel, atau apapun!**
-- 📫 Cara menghubungi: **email@example.com**
-- ⚡ Fun fact: **[Fakta menarik tentang kamu]**
+- 📫 Cara menghubungi: **email1.hammad@gmail.com**
+- ⚡ Fun fact: **Suka ngopi**
 
 ## 🛠️ Tech Stack
 
@@ -65,7 +65,7 @@ Saya seorang developer yang passionate dalam membangun solusi digital yang impac
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&color=blueviolet&style=flat-square&label=Profile+Views)
+  ![Profile Views](https://komarev.com/ghpvc/?username=hmad28&color=blueviolet&style=flat-square&label=Profile+Views)
   
   ### Show some ❤️ by starring some of the repositories!
   
