@@ -1,4 +1,4 @@
-![Banner](hammad-logo-banner.png)
+![Banner](hammad-banner.png)
 
 # 👋 Hi there, I'm Hammad
 
