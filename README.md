@@ -1,3 +1,5 @@
+![Banner](hammad-logo-banner.png)
+
 # 👋 Hi there, I'm Hammad
 
 <div align="center">
