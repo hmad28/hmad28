@@ -8,16 +8,16 @@
   
 </div>
 
-## 🚀 About Me
+# 🚀 About Me
 
-Saya seorang developer yang passionate dalam membangun solusi digital yang impactful. Suka eksplorasi teknologi baru dan berkontribusi ke open source community.
+I’m a developer passionate about building impactful digital solutions. Love exploring new technologies and contributing to the open source community.
 
-- 🔭 Saat ini sedang mengerjakan **H-Mate AI**
-- 🌱 Sedang belajar **AI Engineering**
-- 👯 Terbuka untuk kolaborasi di **proyek open source**
-- 💬 Tanya saya tentang **Web Development, Laravel, atau apapun!**
-- 📫 Cara menghubungi: **email1.hammad@gmail.com**
-- ⚡ Fun fact: **Suka ngopi**
+🔭 Currently working on **H-Mate AI**
+🌱 Learning **AI Engineering**
+👯 Open to collaborating on **open source projects**
+💬 Ask me about **Web Development, Laravel, or anything!**
+📫 How to reach me: **email1.hammad@gmail.com**
+⚡ Fun fact: Love **coffee**
 
 ## 🛠️ Tech Stack
 
