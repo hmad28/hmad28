@@ -12,12 +12,12 @@
 
 I’m a developer passionate about building impactful digital solutions. Love exploring new technologies and contributing to the open source community.
 
-🔭 Currently working on **H-Mate AI**
-🌱 Learning **AI Engineering**
-👯 Open to collaborating on **open source projects**
-💬 Ask me about **Web Development, Laravel, or anything!**
-📫 How to reach me: **email1.hammad@gmail.com**
-⚡ Fun fact: Love **coffee**
+- 🔭 Currently working on **H-Mate AI**
+- 🌱 Learning **AI Engineering**
+- 👯 Open to collaborating on **open source projects**
+- 💬 Ask me about **Web Development, Laravel, or anything!**
+- 📫 How to reach me: **email1.hammad@gmail.com**
+- ⚡ Fun fact: Love **coffee**
 
 ## 🛠️ Tech Stack
 
