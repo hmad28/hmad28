@@ -6,11 +6,13 @@ Fullstack Developer | Laravel & Next.js | Freelance | Helping Businesses Build S
 
 ## About
 
-Specialized in building modern applications using Next.js and Laravel ecosystem.
+Specialize in building modern, scalable applications using the Next.js and Laravel ecosystem, with a strong focus on practical solutions that support real business operations.
 
-I build scalable web applications and have experience in design, photography, videography, and digital content creation.
+Currently leading the digital transformation of a Travel & Umrah agency, developing an end-to-end digital ecosystem, from internal dashboards and automation systems to content production and operational workflows.
 
-Currently focused on fullstack development and expanding into AI engineering and cybersecurity to deliver smarter and more secure solutions.
+My work sits at the intersection of technology, creativity, and business execution. Beyond full stack development, I bring experience in design, photography, videography, and digital content creation to support growth and communication.
+
+Currently expanding into AI engineering and cybersecurity to build smarter, more secure, and future-ready solutions.
 
 **Current Focus:** AI Engineering | Open Source Contributions  
 **Contact:** email1.hammad@gmail.com
