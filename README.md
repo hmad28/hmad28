@@ -24,6 +24,8 @@ Currently expanding into AI engineering and cybersecurity to build smarter, more
 **Database:** MySQL, PostgreSQL  
 **Tools:** Git, VS Code, Figma
 
+![](https://nirzak-streak-stats.vercel.app/?user=hmad28&theme=dark&hide_border=true)<br/>
+
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hmatt28)
