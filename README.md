@@ -19,12 +19,10 @@ Currently expanding into AI engineering and cybersecurity to build smarter, more
 
 ## Tech Stack
 
-**Frontend:** React, Next.js, TypeScript, Tailwind CSS  
-**Backend:** Laravel, Node.js, Express.js  
-**Database:** MySQL, PostgreSQL  
-**Tools:** Git, VS Code, Figma
-
-![](https://nirzak-streak-stats.vercel.app/?user=hmad28&theme=dark&hide_border=true)<br/>
+**Frontend:** React, Next.js, TypeScript, Svelte, Flutter  
+**Backend:** Laravel, Node.js, Express.js, Golang  
+**Database:** MySQL, PostgreSQL, SQLite  
+**Tools:** Git, VS Code, Postman
 
 ## Let's Connect
 
