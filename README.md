@@ -1,16 +1,14 @@
 ![Banner](hammad-banner.png)
 
 # Hammad
-Fullstack Developer | Laravel & Next.js | Freelance | Helping Businesses Build Scalable Web Apps
-
+Fullstack Developer | Building scalable web applications with Next.js, Laravel, and modern cloud-native stacks
+ 
 ## About
-Specialize in building modern, scalable applications using the Next.js and Laravel ecosystem, with a strong focus on practical solutions that support real business operations.
+Fullstack developer specializing in Next.js and Laravel ecosystems. 
 
-Currently leading the digital transformation of a Travel & Umrah agency, developing an end-to-end digital ecosystem, from internal dashboards and automation systems to content production and operational workflows.
+Built 30+ web applications spanning SaaS platforms, POS systems, logistics dashboards, and school management tools. 
 
-My work sits at the intersection of technology, creativity, and business execution. Beyond full stack development, I bring experience in design, photography, videography, and digital content creation to support growth and communication.
-
-Currently expanding into AI engineering and cybersecurity to build smarter, more secure, and future-ready solutions.
+Currently deepening expertise in AI engineering and cybersecurity to build smarter, more secure solutions.
 
 **Current Focus:** AI Engineering | Cybersecurity | Open Source Contributions
 **Contact:** email1.hammad@gmail.com
